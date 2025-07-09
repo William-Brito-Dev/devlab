@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #1E1D26;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    background-color: #45415d;
+    padding: 30px 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    max-width: 500px;
+    width: 100%;
+}
+
+h1 {
+    color: #A6785A;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+
+.language-options button {
+    background-color: #A6785A;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1em;
+    transition: background-color 0.3s ease;
+}
+
+.language-options button:hover {
+    background-color: #8c6347;
+}
+
+.redirect-message {
+    margin-top: 25px;
+    font-size: 0.9em;
+    color: #cccccc;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 20px 25px;
+    }
+    h1 {
+        font-size: 1.5em;
+    }
+    .language-options button {
+        padding: 10px 20px;
+        font-size: 1em;
+    }
+}
