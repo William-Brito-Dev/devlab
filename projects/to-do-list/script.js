@@ -4,7 +4,6 @@ const listaDeTarefas = document.getElementById('listaDeTarefas');
 
 botaoAdicionar.addEventListener('click', adicionarTarefa);
 
-// Adiciona a funcionalidade de adicionar tarefa ao apertar Enter
 inputTarefa.addEventListener('keypress', (evento) => {
     if (evento.key === 'Enter') {
         adicionarTarefa();
@@ -12,10 +11,10 @@ inputTarefa.addEventListener('keypress', (evento) => {
 });
 
 function adicionarTarefa() {
-    const textoTarefa = inputTarefa.value.trim(); // .trim() remove espaços extras
+    const textoTarefa = inputTarefa.value.trim(); 
 
     if (textoTarefa === '') {
-        alert('Por favor, digite uma tarefa!'); // Um alerta simples de iniciante
+        alert('Por favor, digite uma tarefa!'); 
         return;
     }
 
@@ -29,20 +28,18 @@ function adicionarTarefa() {
     `;
 
     listaDeTarefas.appendChild(itemLista);
-    inputTarefa.value = ''; // Limpa o input
+    inputTarefa.value = ''; 
 
-    // Adiciona ouvintes de evento para os novos botões
     const botaoCompletar = itemLista.querySelector('.botao-completar');
     const botaoRemover = itemLista.querySelector('.botao-remover');
 
     botaoCompletar.addEventListener('click', () => {
-        itemLista.classList.toggle('completa'); // Alterna a classe 'completa'
+        itemLista.classList.toggle('completa'); 
     });
 
     botaoRemover.addEventListener('click', () => {
-        listaDeTarefas.removeChild(itemLista); // Remove o item da lista
+        listaDeTarefas.removeChild(itemLista); 
     });
 
-    // Uma "falha" comum de iniciante: não salvar as tarefas no Local Storage.
-    // Assim, ao recarregar a página, as tarefas somem.
+    
 }

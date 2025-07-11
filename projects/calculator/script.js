@@ -14,11 +14,10 @@ botoes.forEach(botao => {
             resultadoInput.value = expressaoAtual;
         } else if (botao.classList.contains('operacao')) {
             if (expressaoAtual !== '') {
-                // Se já tem um número e uma operação pendente, calcula primeiro
                 if (operacaoPendente) {
                     resultadoFinal = calcular(resultadoFinal, parseFloat(expressaoAtual), operacaoPendente);
                     resultadoInput.value = resultadoFinal;
-                    expressaoAtual = ''; // Limpa a expressão atual
+                    expressaoAtual = ''; 
                 } else {
                     resultadoFinal = parseFloat(expressaoAtual);
                     expressaoAtual = '';
@@ -34,8 +33,8 @@ botoes.forEach(botao => {
             if (expressaoAtual !== '' && operacaoPendente) {
                 resultadoFinal = calcular(resultadoFinal, parseFloat(expressaoAtual), operacaoPendente);
                 resultadoInput.value = resultadoFinal;
-                expressaoAtual = String(resultadoFinal); // Guarda o resultado para futuras operações
-                operacaoPendente = null; // Reseta a operação pendente
+                expressaoAtual = String(resultadoFinal); 
+                operacaoPendente = null; 
             }
         }
     });
@@ -50,10 +49,8 @@ function calcular(num1, num2, operacao) {
         case '*':
             return num1 * num2;
         case '/':
-            return num2 !== 0 ? num1 / num2 : 'Erro'; // Evita divisão por zero
-        default:
+            return num2 !== 0 ? num1 / num2 : 'Erro';         default:
             return num2;
     }
 }
 
-// Uma "falha" comum de iniciante: não lidar bem com múltiplas operações seguidas ou bugs de input
