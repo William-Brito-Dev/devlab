@@ -1,57 +1,109 @@
-# Link com conteúdo importante ⚠️ 
+Link com conteúdo importante ⚠️ 
+================================
 
+<<<<<<< HEAD
 - e-books para download: https://mega.nz/folder/TBswjCgI#JFlRHusn-tQsO-laoqasjA
+=======
+E-books para download (mega): 
+- link -> https://mega.nz/folder/TBswjCgI#JFlRHusn-tQsO-laoqasjA
+>>>>>>> 0527ac5bbcfe48e67b0e89a1e2f8859795c2951d
 
 
-# Para HTML e CSS
+Para HTML e CSS
+===============
 
-# Sites
-- W3C School - fonte de matéria sobre desenvolvimento web com playground.
-- MDN web docs - fonte de matéra sobre desenvolvimento web.
-- mediatypes - lista todos os formatos de tipos de arquivos para HTML.
-- emojipedia - fonte com diversos emoji. Lista também os códigos para HTML.
+## Sites 🔗
+**W3C School** 
+- Fonte de matéria sobre desenvolvimento web com playground
 
-# Pesquisar
+**MDN web docs**
+- Fonte de matéra sobre desenvolvimento web
+
+**Iana > mediatypes** 
+- Lista todos os formatos de tipos de arquivos para HTML
+
+**Emojipedia** 
+- Fonte com diversos emoji. Lista também os códigos para HTML
+
+
+## Pesquisar 🔎
 - "html5 obsolete tags" - W3C.
 - Aprofundar conhecimentos em Links dofollow e nofollow para SEO.
 
---
 
-# Para uso de imagens 
+Para uso de imagens 
+===================
 
-# Sites
-- **Pexels** - banco de imagens.
-- **Pikwizard** - banco de imagens.
-- **Gratiosgraphy** - banco de imagens. 
-- **Pixabay** - banco de imagens.
-- **Icons8** - icones gratuitos para sites. Fácil implementação.
+## Sites 🔗
+
+**Pexels** 
+- Banco de imagens
+- link -> https://www.pexels.com/pt-br/
+  
+**Pikwizard** 
+- Banco de imagens
+- link -> https://pikwizard.com/
+
+**Gratiosgraphy** 
+- Banco de imagens 
+- link -> https://gratisography.com
+  
+**Pixabay** 
+- Banco de imagens
+- link -> https://pixabay.com/pt/
+
+**Icons8** 
+- Icones gratuitos para sites
+- Fácil implementação
+- link -> https://icons8.com.br/icons
 
 
-# Ferramentas
-- **Canva** - editor de imagens online.
-- **Gimp** - software editor de imagens gratuito.
-- **Remove.bg** - removedor de fundo gratuito.
+## Ferramentas
 
---
+**Canva**
+- Editor de imagens online
+- link -> https://www.canva.com/?continue_in_browser=true
+  
+**Gimp** 
+- Software editor de imagens gratuito
+- link -> https://www.gimp.org/downloads/
 
-# Para uso de cores e tipografia 
-
-# Sites 
-- **color.adobe.com** - gera paletas de cores e é possível extrair temas. 
-- **paletton.com** - gera exemplos de cores aplicadas ao um site.
-- **coolors.com** - sugere paletas de cores aleatórias.
-- **google fonts** e - **Dafont** - repositórios com diversas fontes gratuitas.
+**Remove.bg** 
+- Removedor de fundo gratuito
+- link -> https://www.remove.bg/pt-br 
 
 
-# Ferramentas 
-- **Extensão ColorZilla** - possibilita  utilzar o  conta-gota para capturar qualquer cor de qualquer site.
+Para uso de cores e tipografia 
+==============================
 
-# Pesquisar
+## Sites
+
+**Color Adobe** 
+- Gera paletas de cores e é possível extrair temas 
+
+**Paletton** 
+- Gera exemplos de cores aplicadas ao um site
+
+**Coolors** 
+- Sugere paletas de cores aleatórias
+
+**Google Fonts** e **Dafont** 
+- Repositórios com diversas fontes gratuitas
+
+
+## Ferramentas 
+
+**Extensão ColorZilla**
+- Possibilita  utilzar o  conta-gota para capturar qualquer cor de qualquer site.
+
+## Pesquisar
 - CSS web safe combinations
 - Recomendações do W3C para tipografia
 
 
-# Para melhorar efiência no VS Code
+Para melhorar efiência no VS Code
+=================================
+
 - Atalho usando o envelopamento (shift+p, alterado para alt+m)
 - Atalho para remover a tabulação no início do código (shift+tab).
  
