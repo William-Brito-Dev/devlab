@@ -1,6 +1,6 @@
 # Link com conteúdo importante ⚠️ 
 
-- e-books para download: https://www.notion.so/c3f90ffaf3c64d4f962a5b1e3d7ed31c 
+- e-books para download: https://mega.nz/folder/TBswjCgI#JFlRHusn-tQsO-laoqasjA
 
 
 # Para HTML e CSS
