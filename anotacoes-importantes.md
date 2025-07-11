@@ -1,12 +1,10 @@
 Link com conteúdo importante ⚠️ 
 ================================
 
-<<<<<<< HEAD
-- e-books para download: https://mega.nz/folder/TBswjCgI#JFlRHusn-tQsO-laoqasjA
-=======
-E-books para download (mega): 
+
+E-books para download (Mega) 
 - link -> https://mega.nz/folder/TBswjCgI#JFlRHusn-tQsO-laoqasjA
->>>>>>> 0527ac5bbcfe48e67b0e89a1e2f8859795c2951d
+
 
 
 Para HTML e CSS
