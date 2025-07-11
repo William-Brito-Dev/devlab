@@ -1,9 +1,9 @@
-Portifólio pessoal 
+# Portifólio pessoal 
 
 Desenvolvido para ser um portifólio pessoal para publicar projetos, trabalhos desenvolvidos. 
 
 
-🛠️ Construido com
+## 🛠️ Construido com
 
 - Gimp como editor de imagens
 - VS Code como Ambiente de desenvolvimento 
@@ -13,25 +13,25 @@ Desenvolvido para ser um portifólio pessoal para publicar projetos, trabalhos d
 - Color Adobe para a geração da paleta de cores 
 
 
-🧑‍💻 Linguagens utilizadas   
+## 🧑‍💻 Linguagens utilizadas   
 
 - HTML5 | Estrutura do site 
 - CSS3 | Estilização e design 
 - JavaScript (ECMA2024) | Interatividade com usuário 
 
 
-⭐ Princípios aplicados 
+## ⭐ Princípios aplicados 
 
 - Psicologia das cores  
 - Código limpo  
 - Lógica de programação
 
 
-📌 Versão do código
+## 📌 Versão do projeto
 
-1.0 - 05 de julho, 2025 (mais recente)
+- 1.0 - 05 de julho, 2025 (mais recente)
 
-Autor 
+## Autor ✍️ 
 
 William Brito Dev - contato.williambrito.dev@hotmail.com 
 
