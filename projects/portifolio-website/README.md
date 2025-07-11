@@ -6,10 +6,10 @@ Desenvolvido para ser um portifólio pessoal para publicar projetos, trabalhos d
 ## 🛠️ Construido com
 
 - Gimp como editor de imagens
-- VS Code como Ambiente de desenvolvimento 
+- VS Code como Ambiente de Desenvolvimento 
 - Chrome como navegador
-- Canva para a criação do templete
-- icon8 para Donwload dos ícones
+- Canva para a criação do template
+- icon8 para donwload dos ícones
 - Color Adobe para a geração da paleta de cores 
 
 
